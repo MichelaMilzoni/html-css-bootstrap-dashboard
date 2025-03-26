@@ -1,7 +1,10 @@
-.navbar-nav .nav-link,
-.navbar-nav .nav-link.active {
+.navbar-nav .nav-link {
     color: white;
     opacity: 0.5;
 }
 
-
+.navbar-nav a.active:hover,
+.navbar-nav .nav-link.active {
+    color: white;
+    opacity: 1;
+}
