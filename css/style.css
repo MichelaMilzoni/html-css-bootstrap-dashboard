@@ -3,7 +3,7 @@
     opacity: 0.5;
 }
 
-.navbar-nav a.active:hover,
+.navbar-nav a.hover:hover,
 .navbar-nav .nav-link.active {
     color: white;
     opacity: 1;
