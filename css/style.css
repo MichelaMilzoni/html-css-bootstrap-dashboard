@@ -22,6 +22,21 @@
     text-align: left;
 }
 
+/* TABELLA */
+.table i {
+    color: #6C757D;
+    border: 0.5px solid #6C757D;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.table.table-striped {
+    font-size: 13px;
+}
+
+
+
+/* FAQ */
 
 
 
