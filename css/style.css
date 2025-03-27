@@ -1,12 +1,12 @@
 
 /* MAIN - table*/
-.card .table th:nth-child(2),
-.card .table td:nth-child(2) {
+.table th:nth-child(2),
+.table td:nth-child(2) {
     display: none;
 }
 
-.card .table th:not(:last-child),
-.card .table td:not(:last-child) {
+.table th:not(:last-child),
+.table td:not(:last-child) {
     text-align: left;
 }
 
@@ -32,8 +32,8 @@
 
 /* media query */
 @media screen and (min-width: 768px) {
-    .card .table th:nth-child(2),
-    .card .table td:nth-child(2) {
+    .table th:nth-child(2),
+    .table td:nth-child(2) {
     display: table-cell;
 }
 
